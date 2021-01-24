@@ -1,0 +1,16 @@
+D:\YazılımGeliştirmeKampı\MyDictionary\bin\Debug\net5.0\MyDictionary.exe
+D:\YazılımGeliştirmeKampı\MyDictionary\bin\Debug\net5.0\MyDictionary.deps.json
+D:\YazılımGeliştirmeKampı\MyDictionary\bin\Debug\net5.0\MyDictionary.runtimeconfig.json
+D:\YazılımGeliştirmeKampı\MyDictionary\bin\Debug\net5.0\MyDictionary.runtimeconfig.dev.json
+D:\YazılımGeliştirmeKampı\MyDictionary\bin\Debug\net5.0\MyDictionary.dll
+D:\YazılımGeliştirmeKampı\MyDictionary\bin\Debug\net5.0\ref\MyDictionary.dll
+D:\YazılımGeliştirmeKampı\MyDictionary\bin\Debug\net5.0\MyDictionary.pdb
+D:\YazılımGeliştirmeKampı\MyDictionary\obj\Debug\net5.0\MyDictionary.csprojAssemblyReference.cache
+D:\YazılımGeliştirmeKampı\MyDictionary\obj\Debug\net5.0\MyDictionary.GeneratedMSBuildEditorConfig.editorconfig
+D:\YazılımGeliştirmeKampı\MyDictionary\obj\Debug\net5.0\MyDictionary.AssemblyInfoInputs.cache
+D:\YazılımGeliştirmeKampı\MyDictionary\obj\Debug\net5.0\MyDictionary.AssemblyInfo.cs
+D:\YazılımGeliştirmeKampı\MyDictionary\obj\Debug\net5.0\MyDictionary.csproj.CoreCompileInputs.cache
+D:\YazılımGeliştirmeKampı\MyDictionary\obj\Debug\net5.0\MyDictionary.dll
+D:\YazılımGeliştirmeKampı\MyDictionary\obj\Debug\net5.0\ref\MyDictionary.dll
+D:\YazılımGeliştirmeKampı\MyDictionary\obj\Debug\net5.0\MyDictionary.pdb
+D:\YazılımGeliştirmeKampı\MyDictionary\obj\Debug\net5.0\MyDictionary.genruntimeconfig.cache
