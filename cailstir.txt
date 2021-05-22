@@ -1,0 +1,4 @@
+            optionsBuilder.UseSqlServer(@"Data Source=desktopname;Database=Northwind;Trusted_Connection=true");
+DataAcses--> dotnet ef database update -s ../WebAPI/WebAPI.csproj
+WEbAPI-->    >csc Program.cs /trget:winexe /out:Program.exe
+

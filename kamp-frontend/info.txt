@@ -1,0 +1,2 @@
+ngOnInit -- ilgili component calistiginda ilk calisan fonsiyon
+gttpClient -- component bunu constructorunda calistirmasi dogru olmaz. servise alinmasi lazim
